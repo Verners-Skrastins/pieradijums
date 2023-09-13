@@ -12,7 +12,7 @@ mans_auto = Auto("Toyota", "Camry")
 
  
 
-# Piekļūstam objekta īpašībām
+# Piekļūstam objekta īpašībāmfr
 
 print(f"Mana automašīna ir {mans_auto.marka} {mans_auto.modelis}")
 
